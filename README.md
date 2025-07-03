@@ -1,12 +1,40 @@
-# React + Vite
+# 🌎 Tech-English Accelerator — Landing Page  
+### 🚧 v0.1.0 — `702` (Jul 2, 2025)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🎯 Target Audience / Público objetivo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Latin American tech startup founders who want to improve their English for pitching, demoing, and fundraising internationally.
 
-## Expanding the ESLint configuration
+Fundadores de startups en América Latina que quieren mejorar su inglés para presentar su pitch, hacer demos y levantar inversión global.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 **Live Site / Sitio en vivo:**  
+## [https://isaranwrap.github.io/learnspanishfortechexecs/](https://isaranwrap.github.io/learnspanishfortechexecs/)
+
+---
+
+## 🚀 Features / Funcionalidades
+
+✅ Clean single-page layout optimized for lead capture  
+🎯 Página simple y efectiva para captar leads
+
+✅ Built-in support for embedding forms and videos  
+🎯 Soporta integración de formularios y videos
+
+✅ Minimal CSS for easy styling  
+🎯 Estilo limpio y fácil de modificar
+
+ ✅ Mobile-friendly and blazing fast  
+🎯 Rápida, responsiva y adaptada a móvil
+
+✅ Ready-to-deploy with one command  
+🎯 Se despliega con un solo comando
+
+---
+
+## 🧪 Local Development / Desarrollo local
+
+```bash
+npm install
+npm run dev
